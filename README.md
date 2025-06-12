@@ -15,7 +15,7 @@ This guide explains three important security concepts in a simple way:
 IAM is a system that makes sure **the right people** can access **the right resources**.
 
 -  **Who you are**  
-- ✅ **What you're allowed to do**
+- **What you're allowed to do**
 
 **Why It Matters:**
 - Protects sensitive data  
